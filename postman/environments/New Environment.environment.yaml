@@ -1,0 +1,7 @@
+name: New Environment
+values:
+  - key: courseId
+    value: ''
+  - key: venueId
+    value: ''
+color: 0
